@@ -1,10 +1,10 @@
 <div id="header" align="center">
     <img src="https://github.com/goonfarias11/gif/blob/main/giphy360p.gif" width="300"/>
-    ### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
+</div>
+ ### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
 > Software Engineer at [SoftNEP](https://softnep.com)
     <h3 align="center">A passionate web fullstack developer from Argentina. I like teaching what i learn in my Social Media: Youtube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channe: Gonzalo
     </h3>
-</div>
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
 |---|---|---|---|---|---|
