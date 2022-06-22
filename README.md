@@ -1,7 +1,6 @@
-![](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj)
-
-
+![giphy360p](https://user-images.githubusercontent.com/94143893/175131041-0c6f103a-9f27-4f39-99a6-5f77cf357261.gif)
 ### Hi there 👋
+
 
 <!--
 **goonfarias11/goonfarias11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
