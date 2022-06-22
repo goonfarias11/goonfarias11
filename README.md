@@ -2,7 +2,7 @@
     <img src="https://github.com/goonfarias11/gif/blob/main/giphy360p.gif" width="300"/>
 </div>
 
-### Hi there 👋 I'm [Gonzalo Faeias](https://anandmainali.com.np)
+### Hi there 👋 I'm [Gonzalo Farias](https://anandmainali.com.np)👨‍💻
 > Software Engineer at [SoftNEP](https://softnep.com)
 
 <h3 align="center">A passionate web fullstack developer from Argentina. I like teaching what i learn in my Social Media: Youtube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channe: Gonzalo
