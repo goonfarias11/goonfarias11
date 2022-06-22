@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/goonfarias11/gif/blob/main/giphy360p.gif" width="100%"/>
+    <img src="https://github.com/goonfarias11/gif/blob/main/giphy360p.gif" width="100%" height="50%"/>
 </div>
 
 ### Hi there 👋 I'm [Gonzalo Farias](https://anandmainali.com.np)👨‍💻
@@ -37,4 +37,4 @@ class Skills extends SoftwareDeveloper {
 <a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-⭐️ From [goonfarias11](https://github.com/thompsonemerson)
+⭐️ From [goonfarias11](https://github.com/goonfarias11)
