@@ -1,4 +1,10 @@
-![giphy360p](https://github.com/goonfarias11/gif/blob/main/giphy360p.gif)
+<div id="header" aling="center">
+    <img src="https://github.com/goonfarias11/gif/blob/main/giphy360p.gif" width="200"/>
+    <h1 aling="center">Hi, I'm Gonzalo</h1>
+    <h3 aling="center">A passionate web fullstack developer from Argentina. I like teaching what i learn in my Social Media: Youtube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channe: Gonzalo
+    </h3>
+</div>
+
 ### Hi there 👋
 
 
