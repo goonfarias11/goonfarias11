@@ -2,12 +2,14 @@
     <img src="https://github.com/goonfarias11/gif/blob/main/giphy360p.gif" width="100%" height="400px"/>
 </div>
 
+![giphy360p](https://user-images.githubusercontent.com/94143893/175356703-052cad3b-c33f-497f-ac01-8d7d91730b2a.gif)
+
+
 ### Hi there 👋 I'm [Gonzalo Farias](https://anandmainali.com.np)👨‍💻
 > Web Develover Mid Level
 > 
 ```js
 import SoftwareDeveloper from 'goonfarias11';
-
 class Bio extends SoftwareDeveloper {
   name     = 'Gonzalo Farias';
   title    = 'Web Developer';
