@@ -1,7 +1,6 @@
-
-
+<div id="header" align="center">
 ![giphy360p](https://user-images.githubusercontent.com/94143893/175356703-052cad3b-c33f-497f-ac01-8d7d91730b2a.gif)
-
+</div>
 ### Hi there 👋 I'm [Gonzalo Farias](https://anandmainali.com.np)👨‍💻
 > Web Develover Junior
 > 
