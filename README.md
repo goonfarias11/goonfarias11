@@ -5,7 +5,7 @@
 ![giphy360p](https://user-images.githubusercontent.com/94143893/175356703-052cad3b-c33f-497f-ac01-8d7d91730b2a.gif)
 
 ### Hi there 👋 I'm [Gonzalo Farias](https://anandmainali.com.np)👨‍💻
-> Web Develover Mid Level
+> Web Develover Junior
 > 
 ```js
 import SoftwareDeveloper from 'goonfarias11';
@@ -19,7 +19,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['Html','Css', 'JavaScript', 'PHP'];
   databases  = ['MySQL'];
-  frameworks = ['React', 'Node.Js', 'Angular'];
+  frameworks = ['React', 'Node.Js', 'Angular', 'MySql'];
 }
 ```
 ⭐️ From [goonfarias11](https://github.com/goonfarias11)
